@@ -1,7 +1,4 @@
 <h1 align="center">🎀 Hello, I'm  Yaqin She</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=440&lines=💻+Coding+is+my+magic;🪄+Turning+coffee+into+code;🌸+Cute%2C+Techy+%26+Deadly" alt="Typing SVG" />
-</p>
 
 ---
 
